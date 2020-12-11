@@ -1,6 +1,6 @@
-# skype_clone_app
+# Skype Clone App
 
-A new Flutter project.
+A new Flutter project to create the Skype Clone App.
 
 ## Getting Started
 
